@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MyCollectionView.swift
 //  CollectionViewProject
 //
 //  Created by Никита Иващенков on 19/10/2021.
@@ -8,15 +8,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        
-        
-    }
-
-
+class MyCollectionView: UICollectionViewCell {
+    
+    
+    
 }
-
